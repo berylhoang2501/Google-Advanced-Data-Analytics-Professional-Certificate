@@ -14,7 +14,9 @@ Practice quizzes allow you to check your understanding of key concepts and provi
 
 Graded quizzes demonstrate your understanding of the main concepts of a course. You must score 80% or higher on each graded quiz to obtain a certificate, and you can take a graded quiz multiple times to achieve a passing score.
 
-## Course 1, Module 1
+## Course 1
+
+### Module 1
 
 Data professional: Any individual who works with data and/or has data skills
 
@@ -31,3 +33,9 @@ Machine learning: The use and development of algorithms and statistical models t
 Metrics: Methods and criteria used to evaluate data
 
 Python: A general-purpose programming language
+
+### Module 2
+
+Unified Patient Record: Hồ sơ bệnh nhân thống nhất
+
+Ví dụ: Một bệnh nhân đi khám ở nhiều nơi, tất cả thông tin như kết quả xét nghiệm, chẩn đoán, và toa thuốc sẽ được lưu trong một hệ thống thống nhất, dễ dàng truy cập bởi các bác sĩ được ủy quyền.
